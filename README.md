@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=${transparent}&color=auto&height=${240}&section=header&text=${Tershire}&fontSize=${48}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00&strokeWidth=3)
