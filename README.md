@@ -8,5 +8,6 @@
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=windows&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tershire&layout=compact&show_icons=true&theme=dark&custom_title=&card_width=854&hide_title=true&hide=Makefile,CMake)
