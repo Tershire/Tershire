@@ -1,1 +1,1 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Tershire&descAlign=60&descAlignY=50&theme=transparent)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=240&section=header&text=TERSHIRE%20render&fontSize=90)
