@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=TERSHIRE:&fontSize=27&fontColor=ffffff&desc=Control%20and%20Computer%20Vision&descSize=24)
+![header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=180&section=header&text=TERSHIRE:&fontSize=27&fontColor=ffffff&fontAlign=20&desc=Control%20and%20Computer%20Vision&descSize=24&descAlign=20)
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
