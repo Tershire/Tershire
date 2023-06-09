@@ -5,3 +5,5 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-cc501f.svg?&style=for-the-badge&logo=matlab&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ad1305.svg?&style=for-the-badge&logo=java&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tershire&layout=compact)
