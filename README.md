@@ -15,4 +15,4 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
-![Google colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=flat-square&logo=colab&logoColor=white)
+![Google colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
