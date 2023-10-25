@@ -20,7 +20,9 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76b900.svg?&style=flat-square&logo=CUDA&logoColor=white)
 ![Google colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
 ![kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white)
 
 
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white)
