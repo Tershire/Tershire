@@ -1,3 +1,5 @@
+[//]: # (https://simpleicons.org/)
+
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&section=header&text=TERSHIRE&fontSize=38&fontColor=ffffff&fontAlign=14.5&fontAlignY=29&desc=Computer%20Vision%20and%20Controls&descSize=24&descAlign=24&descAlignY=75&animation=fadeIn)
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -16,5 +18,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76b900.svg?&style=flat-square&logo=CUDA&logoColor=white)
-![Google colab](https://img.shields.io/badge/googlecolab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
-![kaggle](https://img.shields.io/badge/kaggle-20BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white)
+![Google colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
+![kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white)
+
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white)
