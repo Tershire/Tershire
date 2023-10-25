@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=opencv&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76b900.svg?&style=flat-square&logo=CUDA&logoColor=white)
-![Google colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=googlecolab&logoColor=white)
 ![kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white)
 
