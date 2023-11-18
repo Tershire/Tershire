@@ -22,7 +22,8 @@
 ![kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=flat-square&logo=kaggle&logoColor=white)
 
 
-![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=flat-square&logo=pandas&logoColor=white)
