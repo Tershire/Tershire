@@ -8,7 +8,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ad1305.svg?&style=for-the-badge&logo=java&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tershire&layout=compact&show_icons=true&theme=transparent&custom_title=&card_width=854&hide_title=true&hide=Makefile,CMake,Jupyter%20Notebook,Shell,PowerShell,TeX,GLSL,Yacc,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tershire&layout=compact&show_icons=true&theme=transparent&custom_title=&card_width=854&hide_title=true&hide=Makefile,CMake,Shell,PowerShell,TeX,GLSL,Yacc,CSS)
+[//]: # (Jupyter%20Notebook)
 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=white)
