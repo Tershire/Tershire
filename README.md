@@ -25,6 +25,7 @@
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-9E23B1.svg?&style=flat-square&logo=jax&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?&style=flat-square&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=flat-square&logo=scikitlearn&logoColor=white)
