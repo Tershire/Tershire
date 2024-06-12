@@ -1,6 +1,6 @@
 [//]: # (https://simpleicons.org/)
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&section=header&text=TERSHIRE&fontSize=38&fontColor=ffffff&fontAlign=14.5&fontAlignY=29&desc=Computer%20Vision%20and%20Controls&descSize=24&descAlign=24&descAlignY=75&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=180&section=header&text=TERSHIRE&fontSize=38&fontColor=ffffff&fontAlign=14.5&fontAlignY=29&desc=Perception%20and%20Controls&descSize=24&descAlign=24&descAlignY=75&animation=fadeIn)
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
